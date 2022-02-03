@@ -21,10 +21,18 @@ Por conveniencia se denomina hiperbit (Hb), que es la unidad de medida del hiper
 El hiperlenguaje usa hiperbytes (HB), que son 7 hiperbits diferentes.
 
 Los valores (de base 2) que puede asumir cada Hb:
+
 a)  01  10  11
-b)  01  10  
+
+b)  01  10 
+
 c)  01  10  11
+
 e)  01  10  11  100
+
 f)  01  10  11  100
+
 g)  01  10  11  100
+
 h)  01  10  11  100
+
