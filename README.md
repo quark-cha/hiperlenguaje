@@ -35,3 +35,8 @@ e)  01  10  11  100
 f)  01  10  11  100
 
 g)  01  10  11  100
+
+Por tanto, el número de posibles valores que puede tomar un HB es
+
+3!∙2!∙3!∙4!∙4!∙4!∙4! = 23887872
+
