@@ -1,6 +1,8 @@
 # hypertext
 Hipertext soporte para un hiperlenguaje ideado por Gianluca R. Pisano
 
+El hiperlenguaje tiene una sintaxis capaz de crear una jerarquía semántica cuantificada para cada elemento léxico de cualquier idioma.
+
 El hiperlenguaje se puede utilizar al menos de 3 formas:
 1) ayudar a hacer, es decir, sugerir las opciones de acción adecuadas, en orden;
 2) analizar semánticamente una palabra;
@@ -17,3 +19,12 @@ En este contexto, los sistemas elaborativos, empíricos y no formales, permiten 
 Por conveniencia se denomina hiperbit (Hb), que es la unidad de medida del hiperlenguaje, definida como la mínima cantidad de información útil para discernir los posibles valores necesarios para la jerarquización.
 
 El hiperlenguaje usa hiperbytes (HB), que son 7 hiperbits diferentes.
+
+Los valores que puede asumir cada Hb:
+a)  01  10  11
+b)  01  10  
+c)  01  10  11
+e)  01  10  11  100
+f)  01  10  11  100
+g)  01  10  11  100
+h)  01  10  11  100
