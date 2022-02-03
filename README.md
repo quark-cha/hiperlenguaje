@@ -16,11 +16,11 @@ La resonancia semántica también puede entenderse como la unidad de medida de l
 
 En este contexto, los sistemas elaborativos, empíricos y no formales, permiten la primera y más sencilla evaluación semántica, jerarquizando por orden de relevancia, destacada por la resonancia semántica que utiliza el hablante casi inconscientemente.
 
-Por conveniencia se denomina hiperbit (Hb), que es la unidad de medida del hiperlenguaje, definida como la mínima cantidad de información útil para discernir los posibles valores necesarios para la jerarquización.
+Por conveniencia se denomina hiperbit (hb), que es la unidad de medida del hiperlenguaje, definida como la mínima cantidad de información útil para discernir los posibles valores necesarios para la jerarquización.
 
 El hiperlenguaje usa hiperbytes (HB), que son 7 hiperbits diferentes.
 
-Los valores (de base 2) que puede asumir cada Hb:
+Los valores (de base 2) que puede asumir cada hb:
 
 a)  01  10  11
 
