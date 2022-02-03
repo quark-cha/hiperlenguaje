@@ -1,5 +1,5 @@
 # hiperlenguaje
-Hiperlenguaje es un soporte para el hiperlenguaje ideado por Gianluca R. Pisano
+Victor Estrada Diaz & Gianluca R. Pisano
 
 El hiperlenguaje tiene una sintaxis capaz de crear una jerarquía semántica cuantificada para cada elemento léxico de cualquier idioma.
 
