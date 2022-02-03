@@ -23,19 +23,19 @@ El hiperlenguaje usa hiperbytes (HB), que son 7 hiperbits diferentes.
 
 Los valores (de base 2) que puede asumir cada hb:
 
-a)  01  10  11
+a)  01  10  11          (Sistemas ideales)
 
-b)  01  10 
+b)  01  10              (Sistemas empíricos)
 
-c)  01  10  11
+c)  01  10  11          (Sistemas no formales)
 
-d)  01  10  11  100
+d)  01  10  11  100     (Estructuras ideales)
 
-e)  01  10  11  100
+e)  01  10  11  100     (Estructuras ideales)
 
-f)  01  10  11  100
+f)  01  10  11  100     (Estructuras naturales)
 
-g)  01  10  11  100
+g)  01  10  11  100     (Necesidades existenciales)
 
 Por tanto, el número de posibles valores que puede tomar un HB es
 
