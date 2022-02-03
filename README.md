@@ -1,6 +1,7 @@
 # hiperlenguaje
 Victor Estrada Diaz & Gianluca R. Pisano
 
+
 El hiperlenguaje tiene una sintaxis capaz de crear una jerarquía semántica cuantificada para cada elemento léxico de cualquier idioma.
 
 El hiperlenguaje se puede utilizar al menos de 3 formas:
