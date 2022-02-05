@@ -1,6 +1,6 @@
 # hiperlenguaje
 Victor Estrada Diaz & Gianluca R. Pisano
-
+https://www.linkedin.com/pulse/introduzione-alliper-linguaggio-semantica-gianluca-r-pisano/
 
 El hiperlenguaje tiene una sintaxis capaz de crear una jerarquía semántica cuantificada para cada elemento léxico de cualquier idioma.
 
